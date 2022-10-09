@@ -1,0 +1,2 @@
+public class StudentPassFail04 {
+}
