@@ -1,0 +1,2 @@
+public class AlphabetToRevertinLowerOrUpper12 {
+}

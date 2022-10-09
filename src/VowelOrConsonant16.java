@@ -1,0 +1,2 @@
+public class VowelOrConsonant16 {
+}
